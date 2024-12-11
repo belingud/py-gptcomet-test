@@ -5,7 +5,7 @@ description = "gptcomet: A tool that leverages AI to automatically generate Git 
 authors = [{ name = "belingud", email = "im.victor@qq.com" }]
 readme = "README.md"
 packages = [{ include = "gptcomet" }]
-requires-python = ">=3.9,<4.0"
+requires-python = ">=3.9,<3.14"
 dependencies = [
     "gitpython>=3.1.43",
     "click>=8.1.7",
